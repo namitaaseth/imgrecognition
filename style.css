@@ -1,0 +1,20 @@
+body{
+    background-color: lightcoral;
+    color:white;
+}
+.heading{
+    font-size: 22px;
+    width: 80%;
+}
+.name_of_objects{
+    color: black;
+}
+#camera{
+    height: 300px;
+    width: 300px;
+    border: 2px dashed black;
+}
+#object_name,#object_accuracy{
+    color: black;
+    font-weight: bold;
+}
